@@ -1,2 +1,2 @@
 # readme
-This accelerator contains nothing but a README.md
+This repo contains nothing but a README.md
